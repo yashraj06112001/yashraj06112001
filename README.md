@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Mishra</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+- 🌱 I’m currently learning **Laravel**
+
 - 💬 Ask me about **Vue, Php,Laravel**
 
 - 📫 How to reach me **yashraj06112001@gmail.com**
