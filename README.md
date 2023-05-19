@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Laravel, php**
 
+- 👯 I’m looking to collaborate on **food order**
+
 - 💬 Ask me about **Vue, Php,Laravel**
 
 - 📫 How to reach me **yashraj06112001@gmail.com**
