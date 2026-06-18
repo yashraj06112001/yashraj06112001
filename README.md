@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash Raj Mishra</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Boot Bazaar**
+- 🔭 I’m currently working on **Sabjiwala**
 
-- 🌱 I’m currently learning **Laravel, php**
+- 🌱 I’m currently learning **Nest Js, Next Js**
 
-- 👯 I’m looking to collaborate on **food order**
+- 👯 I’m looking to collaborate on **Sabjiwala app frontend**
 
-- 💬 Ask me about **Vue, Php,Laravel**
+- 💬 Ask me about **React Js and Nest Js**
 
 - 📫 How to reach me **yashraj06112001@gmail.com**
 
